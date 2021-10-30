@@ -2,7 +2,7 @@
 
 #### Inastallation
 
-Code:`git@github.com:Nahid1010/Fitness-Tracker.gi`t
+Code:`git@github.com:Nahid1010/Fitness-Tracker.git`
 You can clone code from github link and run it locally on your computer.
 
 ##### Deployed
